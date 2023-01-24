@@ -25,3 +25,4 @@ def chet():
                     print(f'Мне жаль, но тут ошибка. {a} * {b} = {resh}\n')
 
 chet()
+print(1)
